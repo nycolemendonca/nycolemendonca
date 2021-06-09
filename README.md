@@ -15,6 +15,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- Cada alteração que eu fizer em qualquer arquivo online: Commit change
-->
