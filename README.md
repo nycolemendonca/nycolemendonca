@@ -2,7 +2,7 @@
 
 - 🎓 Graduating in Telecommunication Engineering - [Universidade Federal do Ceará](https://www.ufc.br)
 - 📚 I’m currently learning **C++** and **HTML**.
-- 📫 How to reach me: [@nycoleeee1](https://instagram.com/nycoleeee1)
+- 📫 How to reach me: <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/nycoleeee1">@nycoleeee1</a>
 
 <!--  
 - 🔭 I’m currently working on ...
