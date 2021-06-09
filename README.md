@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Nycole 
 
 - 🎓 Graduating in Telecommunication Engineering - [Universidade Federal do Ceará](https://www.ufc.br)
-- 👩‍💼 I’m currently working on personal projects.
 - 📚 I’m currently learning **C++** and **HTML**.
 - 📫 How to reach me: [@nycoleeee1](https://instagram.com/nycoleeee1)
 
