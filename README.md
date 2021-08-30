@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Nycole 
 
-- 🎓 Telecommunications Engineering Student - [Universidade Federal do Ceará](https://www.ufc.br)
-- 📚 I’m currently learning **C++** and **HTML**.
+- 🎓 **Telecommunications Engineering Student** - [Universidade Federal do Ceará](https://www.ufc.br)
+- 📚 I’m currently learning **C++**, **CSS3** and **HTML**.
 - 📫 How to reach me: [@nycoleeee1](https://instagram.com/nycoleeee1)
+- 😄 Pronouns: She/Her.
 
 <!--  
 - 🔭 I’m currently working on ...
@@ -11,6 +12,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
