@@ -2,7 +2,7 @@
 * Undergraduate in Telecommunications Engineering at the Federal University of Ceará - [UFC](https://www.ufc.br/)
 * Software development enthusiast
 * Student at [Digital Innovation One](https://digitalinnovation.one/)
-
+---
 <div>
   <a href="https://github.com/nycolemendonca">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nycolemendonca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
