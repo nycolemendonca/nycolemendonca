@@ -1,6 +1,6 @@
 ### Hello!👋 I'm Nycole Mendonça
-* Undergraduate in Telecommunications Engineering at the Federal University of Ceará - [UFC](https://www.ufc.br/)
-* Software development enthusiast
+* Graduanda em Engenharia de Telecomunicações pela Universidade Federal do Ceará - [UFC](https://www.ufc.br/)
+* Self-taugh Software Developer
 * Student at [Digital Innovation One](https://digitalinnovation.one/)
 ---
 <div>
