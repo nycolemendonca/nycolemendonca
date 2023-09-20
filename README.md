@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on ACS Informática with Web Development<br>🌱 I’m currently learning Web Development
+🌱 I’m currently learning Web Development
+📚 Telecommunications Engineering Student at IFCE
 
 
 ## 🌐 Socials:
