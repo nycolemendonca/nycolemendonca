@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning Web Development <br>
-📚 Telecommunications Engineering Student at IFCE
+🌱 I’m currently learning Web Development 
+</br>📚 Telecommunications Engineering Student at IFCE
 
 
 ## 🌐 Socials:
